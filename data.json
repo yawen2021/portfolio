@@ -1,0 +1,25 @@
+{
+    "yahoo" : [
+      {
+        "project" : "活動視覺設計",
+        "skil" : [
+          "設計表現能力",
+          "Adobe Ps",
+          "CSS"
+        ],
+        "date" : "2018/12/03",
+        "describetion" : "Yahoo!奇摩購物中心-12.12購物節訂金膨脹 \n 背景和字型配合雙12活動主視覺，視覺元素因應主標，使用硬幣及鈔票點綴，並運用CSS增加噴灑效果。"
+      },
+      {
+        "project" : "eDM版型設計",
+        "skil" : [
+          "設計表現能力",
+          "Adobe Ps",
+          "HTML"
+        ],
+        "date" : "2018/12",
+        "describetion" : "Yahoo!奇摩拍賣-EDM"
+      }
+      
+    ]
+  }
